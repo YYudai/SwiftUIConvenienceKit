@@ -1,3 +1,3 @@
 # SwiftUIConvenienceKit
 
-A description of this package.
+SwiftUI を使った開発を便利にする Swift Package です。
