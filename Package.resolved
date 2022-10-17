@@ -3,7 +3,7 @@
     {
       "identity" : "swiftconveniencekit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/YYudai/SwiftConvenienceKit",
+      "location" : "https://github.com/YYudai/SwiftConvenienceKit.git",
       "state" : {
         "branch" : "main",
         "revision" : "5096955c67c2bf4f75efce4bf1c4ffff6f84c3fd"
