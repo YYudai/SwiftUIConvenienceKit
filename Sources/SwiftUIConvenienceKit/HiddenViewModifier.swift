@@ -13,6 +13,12 @@ struct HiddenViewModifier: ViewModifier {
     }
 }
 
+extension View {
+    func hiddenViewModifier(isHidden: Bool) -> some View {
+        modifier(HiddenViewModifier(isHidden: isHidden))
+    }
+}
+
 struct HiddenViewModifier_Previews: PreviewProvider {
     static var previews: some View {
         Group {
